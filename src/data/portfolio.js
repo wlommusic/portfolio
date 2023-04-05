@@ -7,7 +7,7 @@ export default [
   },
   {
     title: "Bug tracker",
-    imgUrl: "../../public/bugs.png",
+    imgUrl: "http://blog.trello.com/hubfs/marker_trello_bug_tracking.png",
     stack: ["Angular", "Typescript", "Bootstrap"],
     link: "https://bugtrackerangular.netlify.app",
   },
